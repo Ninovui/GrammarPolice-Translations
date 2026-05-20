@@ -5,6 +5,7 @@
     <Phrases>
         <string>officier à terre</string>
         <string>homme à terre</string>
+        <string>agent à terre</string>
         <string>officier touché</string>
     </Phrases>
 </Command>
